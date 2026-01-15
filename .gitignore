@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+rag_env/
+rag_env_312/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+temp_paper_data.json
+paper_data.json
+faiss_index/
+data/
+source/*.pdf
+!source/sample.pdf
+*.pdf
+!sample.pdf
+
+# Logs
+*.log
+
+ISSUES_AND_FIXES.md

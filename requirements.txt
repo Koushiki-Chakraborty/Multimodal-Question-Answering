@@ -1,0 +1,16 @@
+python-dotenv
+requests
+beautifulsoup4
+lxml
+# LangChain Ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface
+langchain-text-splitters
+langchain-groq
+# Vector Store & Embeddings
+faiss-cpu
+sentence-transformers
+# Pin Pydantic for compatibility
+pydantic>=2.0.0
