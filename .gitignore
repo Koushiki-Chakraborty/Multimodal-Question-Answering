@@ -43,3 +43,4 @@ source/*.pdf
 *.log
 
 ISSUES_AND_FIXES.md
+CODEBASE_REPORT.md
