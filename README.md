@@ -88,22 +88,16 @@ This module is currently under development and will be added soon.
 
 # System Concept (High Level)
 
-Document / Research Paper / Image
-↓
-Information Extraction
+Document / Research Paper / Image -> Information Extraction
 
-OCR Pipeline
+** OCR Pipeline ** 
 Text + Table + Layout Extraction
 
-RAG Pipeline
+** RAG Pipeline ** 
 Semantic Retrieval + LLM Reasoning
 
-Image Analysis
+** Image Analysis ** 
 Visual Understanding
-
-↓
-
-Multimodal Question Answering
 
 ---
 
