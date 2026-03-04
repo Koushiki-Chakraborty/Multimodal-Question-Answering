@@ -167,8 +167,8 @@ It serves as:
 | Name | Contribution |
 |-----|-----|
 | [Koushiki Chakraborty](https://github.com/Koushiki-Chakraborty) | OCR experiments (PaddleOCR, PaddleOCR-VL, Camelot) |
-| [Contributor2](https://github.com/username) | Research Paper RAG Assistant |
-| [Contributor3](https://github.com/Bristi12-bk) | Image understanding experiments |
+| [Ayan Mazumdar](https://github.com/ayanmazumdar)) | Research Paper RAG Assistant |
+| [Bristi Kundu](https://github.com/Bristi12-bk) | Image understanding experiments |
 
 ---
 
