@@ -90,14 +90,14 @@ This module is currently under development and will be added soon.
 
 Document / Research Paper / Image -> Information Extraction
 
-** OCR Pipeline ** 
-Text + Table + Layout Extraction
+**OCR Pipeline:** 
+ Text + Table + Layout Extraction
 
-** RAG Pipeline ** 
-Semantic Retrieval + LLM Reasoning
+**RAG Pipeline:** 
+ Semantic Retrieval + LLM Reasoning
 
-** Image Analysis ** 
-Visual Understanding
+**Image Analysis:** 
+ Visual Understanding
 
 ---
 
