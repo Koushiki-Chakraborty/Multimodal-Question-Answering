@@ -162,7 +162,7 @@ It serves as:
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 | Name | Contribution |
 |-----|-----|
