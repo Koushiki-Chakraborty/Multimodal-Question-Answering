@@ -22,15 +22,7 @@ An **agent-based verification step** is used to evaluate the accuracy of extract
 
 # System Pipeline
 
-Document Image / PDF
-↓
-OCR Extraction (PaddleOCR / PaddleOCR-VL)
-↓
-Structured Data Extraction
-↓
-Table Extraction (Camelot)
-↓
-Agent-based Answer Verification
+Document Image / PDF -> OCR Extraction (PaddleOCR / PaddleOCR-VL) -> Structured Data Extraction -> Table Extraction (Camelot) -> Agent-based Answer Verification
 
 The system focuses on **document intelligence and multimodal reasoning**.
 
