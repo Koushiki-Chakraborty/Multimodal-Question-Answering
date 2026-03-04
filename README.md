@@ -217,7 +217,7 @@ multimodal-question-answering
 ├── paddleocr_experiments.ipynb
 ├── paddleocr_vl_layout.ipynb
 ├── camelot_table_filtering.ipynb
-├── test_images
+├── images
 └── README.md
 ```
 
