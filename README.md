@@ -1,5 +1,10 @@
 # Multimodal Question Answering – OCR Experiments
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PaddleOCR](https://img.shields.io/badge/OCR-PaddleOCR-orange)
+![Camelot](https://img.shields.io/badge/TableExtraction-Camelot-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This branch contains experiments exploring **OCR-based document understanding** as a component of a **Multimodal Question Answering (QA)** system.
 
 The goal was to evaluate how well different OCR pipelines can extract structured information (text, tables, layouts) from documents and how an **agent-based approach** can verify the correctness of extracted answers.
