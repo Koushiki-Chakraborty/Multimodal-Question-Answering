@@ -162,6 +162,16 @@ It serves as:
 
 ---
 
+## 👥 Contributors
+
+| Name | Contribution |
+|-----|-----|
+| [Koushiki Chakraborty](https://github.com/Koushiki-Chakraborty) | OCR experiments (PaddleOCR, PaddleOCR-VL, Camelot) |
+| [Contributor2](https://github.com/username) | Research Paper RAG Assistant |
+| [Contributor3](https://github.com/Bristi12-bk) | Image understanding experiments |
+
+---
+
 # License
 
 This project is open-source and available under the MIT License.
