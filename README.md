@@ -71,20 +71,35 @@ Technologies used:
 Branch: `Rag-System`
 
 ---
-
 ### Image Understanding Module
 
-This module focuses on analyzing visual content within documents.
+This module explores visual feature extraction techniques for integrating image understanding into the multimodal QA pipeline.
 
-Planned capabilities include:
+The current implementation includes two experimental approaches:
 
-* Image feature extraction
-* Visual content interpretation
-* Integration with document QA pipeline
+#### 1. CLIP-Based Image–Text Embedding
+- Uses OpenAI CLIP (ViT-B/32) model
+- Generates normalized image embeddings
+- Generates normalized text embeddings
+- Computes cosine similarity between image and text representations
 
-This module is currently under development and will be added soon.
+File:
+- `image_embedding_hugging_face.py`
 
----
+#### 2. YOLOv8-Based Visual Feature Extraction
+- Uses YOLOv8 backbone for extracting deep visual features
+- Applies Global Average Pooling to obtain compact image embeddings
+- Uses SentenceTransformer for generating text embeddings
+- Projects both modalities into a shared embedding space
+- Computes similarity scores between projected embeddings
+
+File:
+- `image_embedding_yolo.py`
+
+Branch:
+- `feature/image-embedding-module`
+
+This module contributes toward building a unified multimodal representation space for document image understanding.
 
 # System Concept (High Level)
 
